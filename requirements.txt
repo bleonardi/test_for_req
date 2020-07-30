@@ -1,6 +1,6 @@
-pip install htrc-feature-reader
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install nltk
-pip install spacy
+htrc-feature-reader
+numpy
+pandas
+matplotlib
+nltk
+spacy
