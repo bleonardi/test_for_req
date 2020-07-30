@@ -4,6 +4,6 @@ pandas
 matplotlib
 nltk
 spacy
-pyenchant
+pyenchant==1.6.6
 gensim
 pyLDAvis
