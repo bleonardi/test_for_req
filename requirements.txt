@@ -4,3 +4,6 @@ pandas
 matplotlib
 nltk
 spacy
+pyenchant
+gensim
+pyLDAvis
